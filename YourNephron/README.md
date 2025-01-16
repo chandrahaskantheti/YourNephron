@@ -5,15 +5,13 @@ The Website should have 3 main pages:
 (more pages will be added per organization's expansion)
 
 Home Page:
-Misison Statement
+Mission Statement
 Objectives
-Why this matters
 Audience/People affected
-What can we do?
-Preventions
-Mitigations
 
-Community Outreach:
+Footer = Contact
+
+Community/Events:
 Who are we reaching out to
 What groups are most vulnerable
 Ways to get involved
