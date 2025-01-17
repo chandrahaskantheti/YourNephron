@@ -61,13 +61,5 @@ For additional roles, please contact **chandra.kantheti@gmail.com**.
 
 ---
 
-## Notes and Next Steps
-
-- Set goals and specific plans for website creation.
-- Design the website using tools like **Webflow** or **Figma** to reduce front-end coding time.
-- Divide website sections among team members for streamlined progress.
-
----
-
 Feel free to contribute or suggest improvements as the project evolves!
 
