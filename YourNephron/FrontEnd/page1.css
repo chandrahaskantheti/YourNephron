@@ -13,13 +13,15 @@
   
   header {
     background-color: #007bff; 
-    color: #fff;
+    color: #010413;
     text-align: center;
     padding: 2rem 1rem;
   }
   
+  
   header h1 {
-    font-size: 2.5rem;
+    font-family: 'Trebuchet MS';
+    font-size: 3rem;
     font-weight: bold;
   }
   
