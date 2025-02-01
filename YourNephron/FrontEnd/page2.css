@@ -68,9 +68,18 @@
     color: #ffffff;
   }
 
+  body > p {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    color: #000000;             /* black body text */
+  }
+
+
   footer {
-    background: #499eff;
-    color: #fff;
+    background: #00008B;        /* dark blue footer box */
+    color: #fff;          
     padding: 2rem 1rem;
     margin-top: 3rem;
   }
@@ -83,7 +92,16 @@
     justify-content: space-between;
     gap: 2rem;
   }
-  
+
+  footer > div > div > p {                  /* Left align Contact Us */
+    text-align: left;
+  }
+
+  footer > div > div > ul > li > a {      /* Center Quick Links */
+        justify-content: center;
+        display: flex;
+  }
+
   footer h3 {
     font-size: 1.3rem;
     margin-bottom: 1rem;
@@ -108,10 +126,10 @@
   footer li {
     margin-bottom: 0.5rem;
   }
-  
+
   footer img {
-    width: 30px;
-    margin-right: 10px;
+    width: 40px;
+    margin-left: 40px;
   }
   
   footer > div:last-child {
