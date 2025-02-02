@@ -73,12 +73,12 @@
     max-width: 800px;
     margin: 0 auto;
     font-size: 1.1rem;
-    color: #000000;             /* black body text */
+    color: #000000;                         /* black body text */
   }
 
 
   footer {
-    background: #00008B;        /* dark blue footer box */
+    background: #00008B;                    /* dark blue footer box */
     color: #fff;          
     padding: 2rem 1rem;
     margin-top: 3rem;
@@ -93,13 +93,18 @@
     gap: 2rem;
   }
 
-  footer > div > div > p {                  /* Left align Contact Us */
+  footer > div > div > p {                   /* Left align Contact Us */
     text-align: left;
   }
 
-  footer > div > div > ul > li > a {      /* Center Quick Links */
+  footer > div > div > ul > li > a {          /* Center Quick Links */
         justify-content: center;
         display: flex;
+  }
+
+  footer img {                                /* Follow us alignment */
+    width: 40px;
+    margin-left: 40px;  /* hardcoded, TODO */
   }
 
   footer h3 {
@@ -127,11 +132,6 @@
     margin-bottom: 0.5rem;
   }
 
-  footer img {
-    width: 40px;
-    margin-left: 40px;
-  }
-  
   footer > div:last-child {
     text-align: center;
     padding-top: 1rem;
