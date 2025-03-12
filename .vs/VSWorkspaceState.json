@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\YourNephron",
+    "\\YourNephron\\FrontEnd"
   ],
-  "SelectedNode": "\\C:\\Users\\akash\\Source\\Repos\\YourNephron",
+  "SelectedNode": "\\YourNephron\\FrontEnd",
   "PreviewInSolutionExplorer": false
 }
