@@ -59,6 +59,13 @@
     text-align: center;
     color: #0056b3;
   }
+
+  h4 {
+    font-size: 2rem;
+    margin: 2rem 0 1rem;
+    text-align: center;
+    color: #0056b3;
+  }
   
   p {
     text-align: center;
@@ -163,6 +170,15 @@
   button:hover {
     background-color: #0056b3;
     transform: scale(1.05);
+  }
+
+  img.thumbnail {
+    display: block;
+    margin: 2rem auto;
+    max-width: 80%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   }
 
   @media (max-width: 768px) {
