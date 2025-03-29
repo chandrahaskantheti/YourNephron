@@ -4,3 +4,15 @@
 
 /.vs/YourNephron/FileContentIndex
 /.vs/YourNephron/CopilotIndices/17.12.53.23981
+
+# VS Code user settings
+.vscode/
+
+# Node.js junk
+node_modules/
+package-lock.json
+package.json
+
+# Live Server config
+*.log
+.DS_Store

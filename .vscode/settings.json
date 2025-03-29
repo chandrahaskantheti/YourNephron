@@ -1,3 +1,4 @@
 {
-    "livePreview.defaultPreviewPath": "/YourNephron/FrontEnd/homepage.html"
+  "liveServer.settings.port": 5501,
+  "liveServer.settings.root": "/FrontEnd"
 }
