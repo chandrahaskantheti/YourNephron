@@ -255,6 +255,14 @@ img.thumbnail {
   color: #333;
 }
 
+.coming-soon {
+  margin: 5rem auto;
+  max-width: 800px;
+  text-align: center;
+  font-size: 1.1rem;
+  color: #333;
+}
+
 
 /* ========== RESPONSIVENESS ========== */
 @media (max-width: 768px) {
