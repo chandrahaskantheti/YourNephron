@@ -18,7 +18,7 @@ export default function Recipes() {
       {/* Header Section */}
       <header className="header">
         <div className="logo-container">
-          <img src="/images/logo.png" alt="YourNephron logo" height="80" />
+          <img src="/assets/logo.png" alt="YourNephron logo" height="80" />
           <h1 className="site-title">YOURNEPHRON</h1>
         </div>
       </header>

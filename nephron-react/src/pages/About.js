@@ -18,7 +18,7 @@ export default function About() {
       {/* Header Section */}
       <header className="header">
         <div className="logo-container">
-          <img src="/images/logo.png" alt="YourNephron logo" height="80" />
+          <img src="/assets/logo.png" alt="YourNephron logo" height="80" />
           <h1 className="site-title">YOURNEPHRON</h1>
         </div>
       </header>
@@ -47,18 +47,18 @@ export default function About() {
             <div className="team-group">
               <h2>Founder</h2>
               <div className="team-card">
-                <img src="/images/advik_headshot.png" alt="Founder Headshot" className="team-photo" />
+                <img src="/assets/advik_headshot.png" alt="Founder Headshot" className="team-photo" />
                 <p><strong>Advik Sunil</strong><br />Founder & Research Lead</p>
               </div>
             </div>
             <div className="team-group">
               <h2>IT Team</h2>
               <div className="team-card">
-                <img src="/images/chandrahas_headshot.jpg" alt="IT Engineer" className="team-photo" />
+                <img src="/assets/chandrahas_headshot.jpg" alt="IT Engineer" className="team-photo" />
                 <p><strong>Chandrahas Kantheti</strong><br />Web Developer</p>
               </div>
               <div className="team-card">
-                <img src="/images/laith_headshot.jpg" alt="IT Engineer" className="team-photo" />
+                <img src="/assets/laith_headshot.jpg" alt="IT Engineer" className="team-photo" />
                 <p><strong>Laith Darras</strong><br />Web Developer</p>
               </div>
             </div>

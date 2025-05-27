@@ -18,7 +18,7 @@ export default function Home() {
       {/* Header Section */}
       <header className="header">
         <div className="logo-container">
-          <img src="/images/logo.png" alt="YourNephron logo" height="80" />
+          <img src="/assets/logo.png" alt="YourNephron logo" height="80" />
           <h1 className="site-title">YOURNEPHRON</h1>
         </div>
       </header>
@@ -29,7 +29,7 @@ export default function Home() {
           <h2>Our Community</h2>
           <div className="image-grid">
             <div className="image-card">
-              <img src="https://source.unsplash.com/300x200/?community" alt="Community event" />
+              <img src="/assets/community.jpg" alt="Community event" />
               <p>Community Outreach Event</p>
             </div>
             <div className="image-card">
