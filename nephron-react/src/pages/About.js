@@ -61,6 +61,10 @@ export default function About() {
                 <img src="/assets/laith_headshot.jpg" alt="IT Engineer" className="team-photo" />
                 <p><strong>Laith Darras</strong><br />Web Developer</p>
               </div>
+              <div className="team-card">
+                <img src="/assets/akash_headshot.jpg" alt="IT Engineer" className="team-photo" />
+                <p><strong>Akash Sant</strong><br />Web Developer</p>
+              </div>
             </div>
           </div>
         </section>
