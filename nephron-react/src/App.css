@@ -39,9 +39,13 @@ header h1 {
 
 
 .navbar {
-  background-color: #fff;
-  border-bottom: 1px solid #ddd;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+    position: sticky;
+    top: 0;
+    z-index: 999;
 }
 
 .navbar-nav {
@@ -64,6 +68,17 @@ header h1 {
 .navbar-nav a:hover {
   background-color: #007bff;
   color: #fff;
+}
+
+.scroll-progress-bar {
+    position: fixed;
+    top: 61px; 
+    left: 0;
+    height: 4px;
+    width: 0%;
+    background: #007bff;
+    z-index: 999;
+    transition: width 0.1s ease-out;
 }
 
 

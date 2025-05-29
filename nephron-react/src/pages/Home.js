@@ -13,7 +13,11 @@ export default function Home() {
           <li><Link to="/events">Events and Join Us</Link></li>
           <li><Link to="/recipes">Recipes</Link></li>
         </ul>
-      </nav>
+          </nav>
+
+      {/* Scroll Progress Bar */}
+      <div className="scroll-progress-bar" id="scroll-progress-bar"></div>
+
 
       {/* Header Section */}
       <header className="header">

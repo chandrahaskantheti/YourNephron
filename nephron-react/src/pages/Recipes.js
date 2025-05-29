@@ -15,6 +15,9 @@ export default function Recipes() {
         </ul>
       </nav>
 
+      {/* Scroll Progress Bar */}
+          <div className="scroll-progress-bar" id="scroll-progress-bar"></div>
+
       {/* Header Section */}
       <header className="header">
         <div className="logo-container">
