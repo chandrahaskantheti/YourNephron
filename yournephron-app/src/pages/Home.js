@@ -26,7 +26,7 @@ export default function Home() {
           <h1 className="site-title">YOURNEPHRON</h1>
         </div>
       </header>
-
+ 
       {/* Main Content */}
       <main className="container">
         <section className="interactive-gallery">
