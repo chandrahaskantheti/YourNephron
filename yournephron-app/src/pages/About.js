@@ -56,23 +56,23 @@ export default function About() {
               <h2>IT Team</h2>
               <div className="team-card">
                 <img
-                  src="/assets/chandrahas_headshot.jpg"
+                  src="/assets/laith_headshot.jpg"
                   alt="IT Engineer"
-                  className="team-photo"
-                />
+                  className="team-photo"/>
                 <p>
-                  <strong>Chandrahas Kantheti</strong>
+                  <strong>Laith Darras</strong>
                   <br />
                   Web Developer
                 </p>
               </div>
               <div className="team-card">
                 <img
-                  src="/assets/laith_headshot.jpg"
+                  src="/assets/chandrahas_headshot.jpg"
                   alt="IT Engineer"
-                  className="team-photo"/>
+                  className="team-photo"
+                />
                 <p>
-                  <strong>Laith Darras</strong>
+                  <strong>Chandrahas Kantheti</strong>
                   <br />
                   Web Developer
                 </p>
